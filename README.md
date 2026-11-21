@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width="92" alt="Video to Text logo">
+![Video to Text for Mac and Windows. Turn videos into timestamped transcripts entirely offline.](social/video-to-text-preview.jpg)
 
 # Video to Text
 
